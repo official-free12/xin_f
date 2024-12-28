@@ -1,0 +1,6 @@
+# 新版国际运营版Java区块链交易所源码币币+永续+期权+机器人
+
+演试地址及后台<br>PC端：example.com/<br>测试帐号 123456@example.com 密码coin123456<br>后端：http://example.com/<br>测试帐号 root 密码Admin@123!<br>基本功能包含：<br>币币交易、永续、交割、期权、机器人、SaaS服务。<br>基础架构如下：<br>基于微服务分布式的Java数字资产，系统采用springboot微服务架构，能分布式部署，并发量能到10万qps,<br>系统分为：永续、闪期权、交易撮合、市场行情、机器人、代理商系统、控盘系统；<br>系统升级了交易所SaaS服务，每个代理商都可以指定自己的域名和ogo等，代理商可以发展自己的用户<br>代理商可以发布自己的公告，并且独立控盘<br>系统包含web端、原生的ios和安卓APP,H5。<br>系统包含全部的源代码，包括基础服务、市场行情服务、撮合引擎等<br>系统的仅限于测试学习，禁止用于一切商业，卖家不承担使用者在使用过程中的任何违法行为负责<br>商品的安装调试只是单网站运行环境配置，请提前看好介绍再购买，如无技术，本店可提供有偿技术服务<br>程序安装中所需任何安装材料，如（服务器、域名、OSS、注册接口等）均需买家提供，若买家无法提供，可与卖家沟通代为提供，需买家另付费<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/HXbn0" style="color: red;">https://mega-file.org/HXbn0</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
